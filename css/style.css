@@ -1,0 +1,27 @@
+.bg-primary {
+  background: rgba(176, 78, 241, 0.849);
+}
+
+.bg-secondary {
+  background: rgb(163, 205, 240);
+}
+
+.my-icon {
+  font-size: 80px !important;
+  color: rgba(176, 78, 241, 0.849);
+
+}
+
+.services-container {
+  border: .5px solid rgba(176, 78, 241, 0.849);
+  padding: 20px;
+  cursor: pointer;
+  transition: 200ms all ease-in-out;
+}
+
+.services-container:hover {
+  background: black;
+  color: white;
+  border-radius: 20px;
+
+}
